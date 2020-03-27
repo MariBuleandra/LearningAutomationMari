@@ -6,11 +6,4 @@
 
 
 
-# Commit 7
-
-
-# Commit 4
-
-# Commit 6 for feature3 branch
-
-# This is an example for pull command
+# Commit 5 for file 2
