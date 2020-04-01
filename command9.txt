@@ -1,0 +1,3 @@
+# git log
+
+# this comment lists all the commits made to our working directory
