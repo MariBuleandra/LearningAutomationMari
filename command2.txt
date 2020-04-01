@@ -1,0 +1,3 @@
+# git remote add origin git@github.com:user/name_of_directory
+
+# this command creates a remote repository in github, correlated to the local repository
