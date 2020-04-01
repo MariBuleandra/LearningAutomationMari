@@ -1,0 +1,3 @@
+# git fetch --prune origin
+
+# this command cleans the outdated (deleted) remote branches
