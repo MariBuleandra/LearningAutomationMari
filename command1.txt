@@ -1,0 +1,3 @@
+# git init
+
+# this command creates a new empty git repository (local)
