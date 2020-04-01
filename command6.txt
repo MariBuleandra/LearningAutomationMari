@@ -1,0 +1,3 @@
+# git checkout -m "Message here"
+
+# this command saves our changes to our local repository (working directory)
