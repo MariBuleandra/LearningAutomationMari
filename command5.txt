@@ -1,0 +1,3 @@
+# git status
+
+# this command shows the state of our working directory (if there are files not added to staging phase or files added, ready to be commited)
