@@ -1,0 +1,3 @@
+# git restore file_name
+
+# this command restores files in the working tree (if we made changes to a file and we don't want to commit them)
