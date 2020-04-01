@@ -1,0 +1,3 @@
+# git branch -D branch_name
+
+# this command deletes a local branch, regardless its state (pushed and merged or not)
