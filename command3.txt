@@ -1,0 +1,3 @@
+# git checkout -b branch_name
+
+# this command is used for creating a new branch and switching on it
