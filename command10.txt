@@ -1,0 +1,3 @@
+# git checkout commit-hash
+
+# this command switches to a previous state of the repository. The commit-hash is the code of a commit, can be found via git log in command or in github
