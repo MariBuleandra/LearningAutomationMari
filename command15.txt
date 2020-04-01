@@ -1,0 +1,3 @@
+# git push origin --delete branch_name
+
+# this command deletes the remote branch
